@@ -2,7 +2,7 @@
 
 The iOS port of demo platformer game SuperSpineBoy by EsotericSoftware.
 
-[![https://i.imgur.com/fIue4Zp.jpg](https://www.youtube.com/watch?v=GnUnDoco0Pw)]
+[![](https://i.imgur.com/fIue4Zp.jpg)](https://www.youtube.com/watch?v=GnUnDoco0Pw)
 
 ## Screenshots
 
